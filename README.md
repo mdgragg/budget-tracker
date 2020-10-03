@@ -1,7 +1,7 @@
 # budget-tracker
 
 
-<img src="h.png" width="700" />
+<img src="https://github.com/mdgragg/budget-tracker/blob/main/public/assets/images/screenshot.png?raw=true" width="700" />
 
 ## Description
 In
@@ -27,7 +27,7 @@ View [Deployed App]()
 
 Demo below shows how application works:
 
-![Demo]()
+![Demo](https://github.com/mdgragg/budget-tracker/blob/main/public/assets/images/demo.gif?raw=true)
 
 
 
