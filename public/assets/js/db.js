@@ -18,7 +18,7 @@ request.onerror = function(event) {
   console.log("Woops! " + event.target.errorCode);
 };
 
-function saveRecord(recrd) {
+function saveRecord(record) {
   const transaction = db.transaction(["pending"], "readwrite");
 
   // access your pending object store
