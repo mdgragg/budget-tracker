@@ -11,7 +11,6 @@ This is an application that allows the user to keep track of there their budget 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
-* [Tests](#tests)
 * [Questions](#questions)
 
 
