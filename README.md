@@ -23,7 +23,7 @@ npm start
 ```
 ## Usage
 
-View [Deployed App]()
+View [Deployed App](https://budget-tracker-mdg.herokuapp.com/)
 
 Demo below shows how application works:
 
