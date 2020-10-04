@@ -4,7 +4,7 @@
 <img src="https://github.com/mdgragg/budget-tracker/blob/main/public/assets/images/screenshot.png?raw=true" width="700" />
 
 ## Description
-In
+This is an application that allows the user to keep track of there their budget whether they're online or offline. The user is able to enter the name and amount of a tranaction and then add or fubtract the funds. If offline the transation will be saved and kept when the page is reloaded and bback online.    
 
 
 ## Table of Contents
